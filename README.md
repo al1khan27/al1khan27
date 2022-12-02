@@ -20,9 +20,10 @@
 ## 📱 Connect with me:
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100077473543181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/gafforiy_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://discord.gg/soburjon(#2592)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/soburjon-daminov-807b41252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/erseitov_a?igshid=YTY2NzY3YTc=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://discord.gg/alikhanerseitov(#5023)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
+  
+<!-- <a href="https://www.linkedin.com/in/soburjon-daminov-807b41252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a> -->
 </p>
 
 ## 🚀 Languages and Tools:
@@ -31,10 +32,10 @@
 
 | 📊 Most Used Language | 🖥 My Github Stats | 📈 Current Streak |
 | :------------------------- | :------------------------- | :------------------------- |
-| <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soburjon19&show_icons=true&locale=en&layout=compact" alt="soburjon19" /></p> | <p>&nbsp;<img align="center" style="background-black" src="https://github-readme-stats.vercel.app/api?username=soburjon19&show_icons=true&locale=en" alt="soburjon19" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soburjon19&" alt="soburjon19" /></p> |
+| <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=al1khan27&show_icons=true&locale=en&layout=compact" alt="al1khan27" /></p> | <p>&nbsp;<img align="center" style="background-black" src="https://github-readme-stats.vercel.app/api?username=al1khan27&show_icons=true&locale=en" alt="al1khan27" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soburjon19&" alt="al1khan27" /></p> |
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=soburjon19&bg_color=000000&color=71b7ff&line=09b43a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=al1khan27&bg_color=000000&color=71b7ff&line=09b43a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- 
 <h2 align="center">Watch my contribution graph being eaten by a Snake! 🐍<h2>
 
-![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/soburjon19/soburjon19/master/snake.svg)
+![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/al1khan27/al1khan27/master/snake.svg) -->
